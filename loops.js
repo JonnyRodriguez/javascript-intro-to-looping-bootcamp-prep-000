@@ -4,3 +4,10 @@ var forLoop = (array) => {
   }
   return array;
 }
+
+var whileLoop = (number) => {
+  while (number>0) {
+    console.log(--number);
+  }
+  return "done";
+}
