@@ -18,6 +18,6 @@ var whileLoop = (number) => {
 
 var doWhileLoop = (num) => {
   do {
-    
+    console.log("")
   } while (incrementVariable() < num);
 };
